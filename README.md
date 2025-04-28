@@ -5,7 +5,7 @@
 
 - 👯 Je collabore aussi **sur un projet en formation**
 
-- 💬 A propos de moi **J'ai un Bachelor et je m'oriente vers un master en cybersécurité**
+- 💬 A propos de moi **J'ai un Bachelor Cybersécurité et administrateur réseaux et je m'oriente vers un master en cybersécurité en alternance**
 
 - 👨‍💻 J'ai un répository privée ou je mets à jour toute les notions que j'apprend 
 
