@@ -1,11 +1,13 @@
 <h1 align="center">Bienvenue sur mon Github ! Moi c'est Zip</h1>
-<h3 align="center">Je suis un passioné de la Cybersécurité et de l'administration réseau j'adore apprendre de nouvelle chose</h3>
+<h3 align="center">Je suis un passioné de la Cybersécurité et de l'administration système et réseaux j'adore apprendre de nouvelle chose </h3>
 
 - 🔭 Je travaille actuellement **sur un projet en entreprise**
 
 - 👯 Je collabore aussi **sur un projet en formation**
 
-- 💬 A propos de moi **J'ai un bachelor et je m'oriente vers un master en cybersécurité**
+- 💬 A propos de moi **J'ai un Bachelor et je m'oriente vers un master en cybersécurité**
+
+- 👨‍💻 J'ai un répository privée ou je mets à jour toute les notions que j'apprend 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
