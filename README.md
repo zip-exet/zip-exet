@@ -27,3 +27,7 @@
   </a>
 
 
+
+
+
+<p align="center"><i>💬 Merci d'avoir visiter mon profil ! À très bientôt !</i></p>
