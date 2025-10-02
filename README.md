@@ -10,6 +10,9 @@
 👨‍💻 🔑J'ai un répository privée ou je mets à jour toute les notions que j'apprend en formation et professionnellement 
 
 <h3 align="left">Connect with me:</h3>
+
+tdaugpro@proton.me
+
 <p align="left">
 </p>
 
