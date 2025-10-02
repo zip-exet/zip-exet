@@ -1,13 +1,13 @@
 <h1 align="center">Bienvenue sur mon Github ! Moi c'est Zip</h1>
 <h3 align="center">Je suis un passioné de la Cybersécurité et de l'administration système et réseaux j'adore apprendre de nouvelle chose </h3>
 
-- 🔭 Je travaille actuellement en tant que Technicien IT sur des missions de support système & réseaux mais également de préparation de poste.je suis également **sur un projet en entreprise sur la refonte et la mise en place d'un serveur de fichier avec les spécificités en interne**
+🔭 Je travaille actuellement en tant que Technicien IT sur des missions de support système & réseaux mais également de préparation de poste.je suis également **sur un projet en entreprise sur la refonte et la mise en place d'un serveur de fichier avec les spécificités en interne**
 
-- 👯 Je collabore aussi dans le cadre de ma formation en bachelor **sur un projet en formation qui consiste à l'élaboration d'une infrastructure hybride et virtualisée sur la demande évolutive des clients**
+ 👯 Je collabore aussi dans le cadre de ma formation en bachelor **sur un projet en formation qui consiste à l'élaboration d'une infrastructure hybride et virtualisée sur la demande évolutive des clients**
 
-- 💬 A propos de moi **J'ai un Bachelor Cybersécurité et Administrateur Réseaux et je m'oriente vers un master en cybersécurité en alternance** 
+💬 A propos de moi **J'ai un Bachelor Cybersécurité et Administrateur Réseaux et je m'oriente vers un master en cybersécurité en alternance** 
 
-- 👨‍💻 🔑J'ai un répository privée ou je mets à jour toute les notions que j'apprend en formation et professionnellement 
+👨‍💻 🔑J'ai un répository privée ou je mets à jour toute les notions que j'apprend en formation et professionnellement 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
