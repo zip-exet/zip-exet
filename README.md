@@ -1,17 +1,93 @@
-<h1 align="center">Bienvenue sur mon Github ! Moi c'est Zip</h1>
-<h3 align="center">Je suis un passioné de la Cybersécurité et de l'administration système et réseaux j'adore apprendre de nouvelle chose </h3>
+<h1 align="center">👋 Bienvenue sur mon profil GitHub </h1>
 
-🔭 Je travaille actuellement en tant que Technicien IT sur des missions de support système & réseaux mais également de préparation de poste.je suis également **sur un projet en entreprise sur la refonte et la mise en place d'un serveur de fichier avec les spécificités en interne**
+<h3 align="center">Passionné de Cybersécurité, Systèmes & Réseaux, et Nouvelles Technologies</h3>
 
- 👯 Je collabore aussi dans le cadre de ma formation en bachelor **sur un projet en formation qui consiste à l'élaboration d'une infrastructure hybride et virtualisée sur la demande évolutive des clients**
+---
 
-💬 A propos de moi **J'ai un Bachelor Cybersécurité et Administrateur Réseaux et je m'oriente vers un master en cybersécurité en alternance** 
+## 🚀 À propos de moi
 
-👨‍💻 🔑J'ai un répository privée ou je mets à jour toute les notions que j'apprend en formation et professionnellement 
+Actuellement **Apprenti ingénieur en cybersécurité** en alternance pour une durée de 2 ans , je prépare un **Master en Sécurité Informatique et Cybersécurité des Cybermenaces**.
 
-<h3 align="left">Connect with me:</h3>
+Mon objectif est de me spécialiser dans la cybersécurité et développer un maximum de compétences tout au long de **mes 5 années d’alternance** , en combinant expériences professionnelles et formation académique. 
 
-tdaugpro@proton.me
+Mon objectif est de faciliter mon intégration future sur un poste en CDI orienté cybersécurité, avec pour vocation de protéger les données et le système d’information d’une entreprise, tout en apportant mon expertise et mon savoir-faire acquis au fil des années. Je souhaite également continuer à apprendre chaque jour, grâce aux outils utilisés et à la veille technologique constante.
+
+---
+
+## 🧑‍💻 Expériences professionnelles
+
+### 🔭 Technicien IT Niveau 1 & 2 — 3 ans d’expérience
+Missions principales :
+- Support système & réseaux  
+- Préparation et déploiement de postes  
+- Gestion et résolution d’incidents utilisateurs  
+- Maintenance du parc informatique  
+
+🎯 **Projets réalisés :**
+
+- Refonte et mise en place d’un **serveur de fichiers** adapté aux besoins internes ( Réaliser un état de l'art entre les différentes technologies de serveur de fichier ( FTP , FTPS , SFTP , etc..)  , prendre en compte l'infrastructure interne , gestion de projet ( RIDA , Gantt ) , conception d'un schéma réseau , durcissement des règles de sécurité , ) 
+  
+- Déploiement d’une **image métier via MDT** pour standardiser les environnements logiciels ( Hyper-V , MDT , Compréhension du fonctionnement des logiciels automaticien et electricien , compréhension des enjeux métiers et organisationnelle , scripting  , suite Microsoft ) 
+
+---
+
+## 🏗️ Projets académiques
+
+### 🧱 Fondation d’une société prestataire fictive en travail de groupe — Infrastructure hybride & virtualisée
+
+**Objectif :** Créer une infrastructure robuste et flexible répondant à une demande client évolutive.
+
+
+
+**Mon rôle :** Conception, déploiement et maintenance de l’infrastructure, tout en gérant les aspects organisationnels et financiers.
+
+
+
+**Activités principales :**
+
+- 💻 **Virtualisation & Conteneurisation** : Déploiement de VM sur Proxmox et environnements conteneurisés.  
+- 🖥️ **Gestion des serveurs** : 3 serveurs en RAID pour assurer performance et résilience.  
+- 🛠️ **Outils d’administration** : Supervision, sauvegarde, plateforme de ticketing
+- 🛠️ **Dépannage** : Ticketing , Physique , Teams 
+- 🔧 **Environnement développement client** : GitLab, pipelines CI/CD, déploiement automatisé.  
+- 📊 **Gestion de projet & coûts** : Planification, communication et suivi budgétaire.  
+
+
+
+
+#### Résultat :
+
+Les developpeurs ont pu présenter un site fonctionnel pour la soutenance finale, démontrant la qualité et la robustesse de l’infrastructure.
+
+
+## 🛠️ Technologies & Outils manipulées lors de mes années en formation et en entreprises 
+
+🔧 **Systèmes :** Windows Server, Linux (Debian/Ubuntu/CentOS) , Intune , Sentinel ,
+
+🌐 **Réseaux :** VLAN, DHCP, DNS, VPN, Firewall
+
+☁️ **Cloud :** Azure / AWS
+ 
+🛡️ **Cybersécurité :** SIEM, SOC, AD Hardening, OSINT, etc.
+
+🧩 **Virtualisation :** VMware, Hyper-V, Proxmox
+
+📦 **Déploiement :** MDT, WDS, Ansible
+
+🛠️ **Outils :** Wireshark, Metasploit, Nmap, Git, PowerShell 
+
+---
+
+## 📫 Me contacter
+
+Si tu souhaites me contacter pour pouvoir échanger ça sera avec plaisir !
+
+<ins> Tu peux me retrouver juste ici :  
+
+📧 **Email :** tdaugpro@proton.me 
+
+🔗 **LinkedIn :** _lien_  
+
 
 <p align="left">
 </p>
