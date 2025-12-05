@@ -53,8 +53,6 @@ Missions principales :
 - 📊 **Gestion de projet & coûts** : Planification, communication et suivi budgétaire.  
 
 
-
-
 #### Résultat :
 
 Les developpeurs ont pu présenter un site fonctionnel pour la soutenance finale, démontrant la qualité et la robustesse de l’infrastructure.
@@ -62,13 +60,13 @@ Les developpeurs ont pu présenter un site fonctionnel pour la soutenance finale
 
 ## 🛠️ Technologies & Outils manipulées lors de mes années en formation et en entreprises 
 
-🔧 **Systèmes :** Windows Server, Linux (Debian/Ubuntu/CentOS) , Intune , Sentinel ,
+🔧 **Systèmes :** Windows Server, Linux (Debian/Ubuntu/CentOS) , Intune , 
 
 🌐 **Réseaux :** VLAN, DHCP, DNS, VPN, Firewall
 
-☁️ **Cloud :** Azure / AWS
+☁️ **Cloud :** Azure , DENV-R
  
-🛡️ **Cybersécurité :** SIEM, SOC, AD Hardening, OSINT, etc.
+🛡️ **Cybersécurité :** SIEM, SOC, AD Hardening, OSINT, etc. , Sentinel , Microsoft Defender , Intune
 
 🧩 **Virtualisation :** VMware, Hyper-V, Proxmox
 
